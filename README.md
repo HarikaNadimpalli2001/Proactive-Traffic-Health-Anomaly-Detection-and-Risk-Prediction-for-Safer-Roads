@@ -1,0 +1,2 @@
+# Proactive-Traffic-Health-Anomaly-Detection-and-Risk-Prediction-for-Safer-Roads
+The project involved using PySpark to preprocess and analyze large traffic accident datasets. Machine learning models like K-Means, GMM, FP-Growth, Random Forest, Gradient-Boosted Trees, and MLP were applied to uncover patterns, identifying high-risk zones and time periods for improved traffic management and safety measures.
